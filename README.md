@@ -9,3 +9,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+* What the project does
+* The features and benefits of the project
+* How users can get started with the project
+* Where users can get help with your project
+* Who maintains and contributes to the project
