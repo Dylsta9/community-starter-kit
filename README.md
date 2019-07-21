@@ -1,12 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Updated
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Updated
 
 ## Getting started
+
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
@@ -53,3 +54,11 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+=======
+I'll meet you over there, can't wait to get started!
+
+* What the project does
+* The features and benefits of the project
+* How users can get started with the project
+* Where users can get help with your project
+* Who maintains and contributes to the project
